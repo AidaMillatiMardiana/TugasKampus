@@ -22,5 +22,21 @@
 16.4.3. Pertanyaan Percobaan
 1.	Unlimited argments merupakan java varargs dimana hal tersebut digunakan untuk kebutuhan dengan jumlah ‘tak tentu’ dari benda-benda. Kelebihan varargs adalah dapat digunakan ketika kita tidak yakin tentang jumlah argumen yang harus disampaikan dalam suatu metode. Jika kita memiliki metode yang kelebihan beban untuk menerima jumlah parameter yang berbeda, maka alih-alih menggunakan kelebihan waktu yang berbeda, kita cukup menggunakan konsep varargs
 
+16.5. Tugas Praktikum
+1. Kode Program
+    * <img src="./ss/4.jpeg">
+    * <img src="./ss/5.jpeg">
+    * <img src="./ss/6.jpeg">
+    * <img src="./ss/7.jpeg">
+    * <img src="./ss/8.jpeg">
+
+    Output
+    * <img src="./ss/9.jpeg">
+    * <img src="./ss/10.jpeg">
+    * <img src="./ss/11.jpeg">
+
+
+
+
 
 
